@@ -1,0 +1,59 @@
+[
+    {
+        "id":"1",
+        "name":"Eat 'N More-Colombo",
+        "address":"No:35/1B,1st Lane,Colombo",
+        "time":"9am-11pm",
+        "url":"https://img.freepik.com/premium-photo/display-ice-creams-with-different-flavors-them_651966-1194.jpg?w=740"
+
+    },
+    {
+        "id":"2",
+        "name":"Eat 'N More-Nugegoda",
+        "address":"No:5/D,2nd Street,Nugegoda",
+        "time":"9am-12pm",
+        "url":"https://content.jdmagicbox.com/comp/dimapur/s3/9999p3862.3862.220321015135.t5s3/catalogue/barista-duncan-basti-dimapur-coffee-shops-ndekbsqxsj.jpg"
+    },
+    {
+        "id":"3",
+        "name":"Eat 'N More-Gampaha",
+        "address":"No:31/A,Lake Road,Gampaha",
+        "time":"8am-10pm",
+        "url":"https://c8.alamy.com/comp/MHMYF1/cake-display-in-a-patisserie-dessert-shop-bakery-MHMYF1.jpg"
+    },
+    {
+        "id":"4",
+        "name":"Eat 'N More-Maharagama",
+        "address":"No:21/C,Lake Road,Maharagama",
+        "time":"8am-10pm",
+        "url":"https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/ilhmuyqa/d7d6ed0c-8eb1-45cd-9730-e35375a51bde.jpg"
+    },
+    {
+        "id":"5",
+        "name":"Eat 'N More-Kaduwela",
+        "address":"No:18/A,Awissawella Road,Kaduwela",
+        "time":"9am-9pm",
+        "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiCv_SI5jihLGtnhGRVbcKcZ4F4FxIB_mJRjriJB91fzbc3s0mWpCiwFWDumzuUkO1N6Y&usqp=CAU"
+    },
+    {
+        "id":"6",
+        "name":"Eat 'N More-Kandy",
+        "address":"No:1,Zoo Road,Kandy",
+        "time":"8am-10pm",
+        "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfQWpWUZhUzvs_PRyOB5lG6szi9fIjguMnpUh-jqhwOUD_hg_WJTtTr7UQxMIiLX-B2_Q&usqp=CAU"
+    },
+    {
+        "id":"7",
+        "name":"Eat 'N More-Galle",
+        "address":"No:12/B,Flower Road,Galle",
+        "time":"9am-10pm",
+        "url":"https://perfectdailygrind.com/wp-content/uploads/2021/03/Barista-Workflow-Cover.jpg"
+    },
+    {
+        "id":"8",
+        "name":"Eat 'N More-Kelaniya",
+        "address":"No:12/G,Temple Road,Kelaniya",
+        "time":"9.am-11pm",
+        "url":"https://cdn.pixabay.com/photo/2016/11/29/12/54/cafe-1869656_1280.jpg"
+    }
+]
